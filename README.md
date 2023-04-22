@@ -1,6 +1,6 @@
 # BannerAxew
 
-![](https://raw.githubusercontent.com/Tweaky349/BannerAxew/master/data/imagen.jpg)
+![](https://raw.githubusercontent.com/Tweaky349/BannerAxew/master/data/ejemplo.jpg)
 <div align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 </div>
