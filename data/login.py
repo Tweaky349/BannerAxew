@@ -2,6 +2,7 @@
 #coding=utf-8
 import os
 import sys
+import time
 os.system("clear")
 def banner():
 	print "\033[97m░█████╗░██╗░░██╗███████╗░██╗░░░░░░░██╗"
