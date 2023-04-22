@@ -21,6 +21,5 @@ time.sleep(1)
 banner()
 time.sleep(0.5)
 load()
-ruta = '/data/data/com.termux/files/home/Update/BannerAxew/data'
 os.system('sh ' + ruta + '/fecha.sh')
 
