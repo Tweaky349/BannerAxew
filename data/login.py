@@ -15,11 +15,11 @@ def banner():
 	print "\033[97m██╔══██║░██╔██╗░██╔══╝░░░░████╔═████║░"
 	print "\033[97m██║░░██║██╔╝╚██╗███████╗░░╚██╔╝░╚██╔╝░"
 	print "\033[97m╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░"
-        print "\033[94m▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔"
+        print "\033[94m▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔"
 
 time.sleep(1)
 banner()
 time.sleep(0.5)
 load()
 ruta = '/data/data/com.termux/files/home/Update/BannerAxew/data'
-
+os.system('sh ' + ruta + '/fecha.sh')
