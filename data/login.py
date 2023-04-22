@@ -15,3 +15,4 @@ def banner():
 
 time.sleep(1)
 banner()
+ruta = '/data/data/com.termux/files/home/Update/BannerAxew/data'
