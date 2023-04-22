@@ -61,7 +61,7 @@ banner() {
 	sed -i '/ruta = */d' ${ruta}/data/login.py
 	sed -i "/os.system('sh ' */d" ${ruta}/data/login.py
 	echo "ruta = '"${ruta}"/data'" >> ${ruta}/data/login.py
-	echo "os.system('sh ' + ruta + '/fecha.sh')" >> ${ruta}/data/login.py
+	echo "os.system('sh ' + ruta')" >> ${ruta}/data/login.py
 }
 delete() {
 	rm -rf $PREFIX/etc/motd
