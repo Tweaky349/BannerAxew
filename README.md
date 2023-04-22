@@ -1,4 +1,4 @@
-# T-banner
+# BannerAxew
 
 ![](https://raw.githubusercontent.com/Tweaky349/BannerAxew/master/data/imagen.jpg)
 <div align="center">
